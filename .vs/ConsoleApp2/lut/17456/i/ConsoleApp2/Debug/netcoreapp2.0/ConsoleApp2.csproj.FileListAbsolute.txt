@@ -1,0 +1,12 @@
+C:\Users\Iluha\source\repos\ConsoleApp2\.vs\ConsoleApp2\lut\0\b\ConsoleApp2\Debug\netcoreapp2.0\ConsoleApp2.deps.json
+C:\Users\Iluha\source\repos\ConsoleApp2\.vs\ConsoleApp2\lut\0\b\ConsoleApp2\Debug\netcoreapp2.0\ConsoleApp2.runtimeconfig.json
+C:\Users\Iluha\source\repos\ConsoleApp2\.vs\ConsoleApp2\lut\0\b\ConsoleApp2\Debug\netcoreapp2.0\ConsoleApp2.runtimeconfig.dev.json
+C:\Users\Iluha\source\repos\ConsoleApp2\.vs\ConsoleApp2\lut\0\b\ConsoleApp2\Debug\netcoreapp2.0\ConsoleApp2.dll
+C:\Users\Iluha\source\repos\ConsoleApp2\.vs\ConsoleApp2\lut\0\b\ConsoleApp2\Debug\netcoreapp2.0\ConsoleApp2.pdb
+C:\Users\Iluha\source\repos\ConsoleApp2\.vs\ConsoleApp2\lut\0\i\ConsoleApp2\Debug\netcoreapp2.0\ConsoleApp2.csprojResolveAssemblyReference.cache
+C:\Users\Iluha\source\repos\ConsoleApp2\.vs\ConsoleApp2\lut\0\i\ConsoleApp2\Debug\netcoreapp2.0\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\Iluha\source\repos\ConsoleApp2\.vs\ConsoleApp2\lut\0\i\ConsoleApp2\Debug\netcoreapp2.0\ConsoleApp2.AssemblyInfoInputs.cache
+C:\Users\Iluha\source\repos\ConsoleApp2\.vs\ConsoleApp2\lut\0\i\ConsoleApp2\Debug\netcoreapp2.0\ConsoleApp2.AssemblyInfo.cs
+C:\Users\Iluha\source\repos\ConsoleApp2\.vs\ConsoleApp2\lut\0\i\ConsoleApp2\Debug\netcoreapp2.0\ConsoleApp2.csproj.CopyComplete
+C:\Users\Iluha\source\repos\ConsoleApp2\.vs\ConsoleApp2\lut\0\i\ConsoleApp2\Debug\netcoreapp2.0\ConsoleApp2.dll
+C:\Users\Iluha\source\repos\ConsoleApp2\.vs\ConsoleApp2\lut\0\i\ConsoleApp2\Debug\netcoreapp2.0\ConsoleApp2.pdb
